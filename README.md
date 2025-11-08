@@ -2,6 +2,7 @@
   <img src="https://github.com/user-attachments/assets/2f860683-9c08-4ca3-b2e7-d7161ed1ed89" alt="Photos Icon" width="200">
   <img src="https://github.com/user-attachments/assets/15af7e2c-d632-4228-bda9-846275895421" alt="Maps" width="130">
 
+  
 <h1 align="center">
 Dox machine
 
@@ -13,9 +14,9 @@ Dox machine
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Browser-Vivaldi-crimson?logo=vivaldi&logoColor=white">
-  <img src="https://img.shields.io/badge/Browser-Chromium-crimson?logo=googlechrome&logoColor=white">
-  <img src ="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"> 
+  <img src="https://img.shields.io/badge/Maps-Google Maps-green?logo=googlemaps&logoColor=white">
+  
+<img src ="https://img.shields.io/badge/C++-blue?logo=c&logoColor=fff"> 
 </p>
 
 <p align="center">
@@ -28,6 +29,8 @@ Dox machine
 
 - It's a program that prints out image's metadata and location to paste onto Google Maps (for fun only TT). 
 - Used Exiv2 library
+- Has coordinates to paste onto Google Maps
+- Only works with images that have metadata and not stripped off
 
 <h3 align="center">
 Overview
@@ -61,4 +64,3 @@ Overview
    git clone https://github.com/SpeedyTheXD/Hide-Desktop-Icons.git
    
 2. Download the latest version from the **[Releases Page](https://github.com/SpeedyTheXD/Hide-Desktop-Icons/releases)**.
-
