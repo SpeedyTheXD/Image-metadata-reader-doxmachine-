@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2f860683-9c08-4ca3-b2e7-d7161ed1ed89" alt="Photos Icon" width="200">
   <img src="https://github.com/user-attachments/assets/15af7e2c-d632-4228-bda9-846275895421" alt="Maps" width="130">
-
-
+  <img src="https://github.com/user-attachments/assets/5905c4f6-5fff-4419-8123-4b89929047e7" alt="My Icon" width="125">
+</p>
 
 <h1 align="center">
 Dox machine
